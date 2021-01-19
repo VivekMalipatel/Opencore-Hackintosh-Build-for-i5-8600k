@@ -1,8 +1,6 @@
 # Opencore BigSur Hackintosh-Build-for-i5-8600k
 
-##Credits : https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
-
-
+## Credits : https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 
 
 Completely working OpenCore hackintosh build for a personal built PC with the Below Configurations :
