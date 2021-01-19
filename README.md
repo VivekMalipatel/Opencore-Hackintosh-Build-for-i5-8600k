@@ -5,7 +5,7 @@
 
 Completely working OpenCore hackintosh build for a personal built PC with the Below Configurations :
 
-> #### Processor : i5-8600k 8th gen 6-Core 3.6Ghz
+> #### Processor : i5-8600k 8th gen 6-Core 3.6Ghz (Coffee Lake)
 > #### Ram : 8GB 2400Mhz DDR4
 > #### Storage : Sandisk 240 GB SATA SSD (+) 2x 500GB Seagate SATA HDD
 > #### Motherboard : MSI Z370 Gaming M5
