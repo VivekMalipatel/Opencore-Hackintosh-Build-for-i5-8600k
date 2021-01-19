@@ -1,4 +1,4 @@
-# Opencore BigSur Hackintosh Build for Intel i5 8600k Coffee lake Processor
+# Opencore MacOS BigSur Build for Intel i5 8600k Coffee lake Processor
 
 ## Credits : https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 
