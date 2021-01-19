@@ -12,8 +12,6 @@ Completely working OpenCore hackintosh build for a personal built PC with the Be
 > #### Graphics : Intel Integrated UHD Graphics 630 
 
 
-
-
 The Build lacks both WIFI and Bluetooth, As the motherboard doesn't integrate any wifi and bluetooth hardware.
 I am planning to buy the hardware driver seperately and update the EFI with the suitable kexts and config.plist file.
 
