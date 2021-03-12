@@ -15,5 +15,12 @@ Completely working OpenCore hackintosh build for a personal built PC with the Be
 The Build lacks both WIFI and Bluetooth, As the motherboard doesn't integrate any wifi and bluetooth hardware.
 I am planning to buy the hardware driver seperately and update the EFI with the suitable kexts and config.plist file.
 
+---Update--- (12th Mar)
+
+Bluetooth Dongle from TP-Link is working fine with the build.
+TP Link Archer Mini Wifi dongle is working fine, But it does require seperate driver to work. It does'nt show as inbuilt wifi device. The default Wifi menu doean't work. (The TP-Link Drivers will be automatically installed after you connect the dongle)
+
+There is still no Airdrop working.I Think it needs inbuilt wifi chip.
+
 
 
