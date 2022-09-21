@@ -6,7 +6,7 @@
 Completely working OpenCore hackintosh build for a personal built PC with the Below Configurations :
 
 > #### Processor : i5-8600k 8th gen 6-Core 3.6Ghz (Coffee Lake)
-> #### Ram : 8GB 2400Mhz DDR4
+> #### Ram : 16GB 3200Mhz DDR4
 > #### Storage : Sandisk 240 GB SATA SSD (+) 2x 500GB Seagate SATA HDD
 > #### Motherboard : MSI Z370 Gaming M5
 > #### Graphics : Intel Integrated UHD Graphics 630 
@@ -22,9 +22,9 @@ TP Link Archer Mini Wifi dongle is working fine, But it does require seperate dr
 
 There is still no Airdrop working.I Think it needs inbuilt wifi chip.
 
----Update--- (30th May 2021)
+---Update--- (21st SEP 2022)
 
-I Have updated all the Internal drivers,kexts and Config.plist to make compatible with the lastest Mac Os BigSur 11.4. 
+I Have updated all the Internal drivers,kexts and Config.plist to make compatible with the lastest Mac Os Monterey 12.6. 
 
 
 
